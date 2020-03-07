@@ -2,7 +2,7 @@ extends KinematicBody2D
 class_name Triangle
 
 var velocity = Vector2()
-var Speed = 250
+var Speed = 350
 
 
 func _process(delta):
